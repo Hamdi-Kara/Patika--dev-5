@@ -1,2 +1,2 @@
-# Patika--dev-5
-Bootsrrap
+# Patika-Ödev-5
+Bootstrap
